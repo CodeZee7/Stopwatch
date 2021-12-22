@@ -22,7 +22,6 @@ This project uses only a few Python modules and libraries.
 *These are the installations required:*
 
     pip install pillow
-    pip install image
 
 ## Features
 Basic stopwatch functions.
