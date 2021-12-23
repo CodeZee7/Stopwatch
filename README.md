@@ -7,7 +7,7 @@
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Project Status](#project-status)
-* [Acknowledgements](#acknowledgements)
+* [Acknowledgements & Tutorial](#acknowledgements)
 * [Contact](#contact)
 
 
