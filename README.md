@@ -41,7 +41,7 @@ Project is: complete, but may have future amendments in order to improve the pro
 
 ## Acknowledgements
 Credits
-- This project was created by myself, Zeeshan Ibrahim (CodeZee)
+- This project was created by Zeeshan Ibrahim (CodeZee)
 - [Here](https://www.example.com) is the tutorial for the project.
 
 
